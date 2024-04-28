@@ -1,4 +1,4 @@
-<h1 align="center">Focuz</h1>
+<h1 align="center">LearnFlow</h1>
 
 <br>
 
@@ -8,7 +8,7 @@
 
 ## Solution
 
-* The Focuz app, built on the React Express Node platform and integrated with Rapid API, enhances user learning focus by eliminating distractions such as recommendations, comments, and ads on YouTube. This empowers users to concentrate on their educational content without interruptions.
+* The LearnFlow app, built on the React Express Node platform and integrated with Rapid API, enhances user learning focus by eliminating distractions such as recommendations, comments, and ads on YouTube. This empowers users to concentrate on their educational content without interruptions.
 
 ## Demo
 
